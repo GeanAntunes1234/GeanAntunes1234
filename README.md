@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá, meu nome é @GeanAntunesDaSilvaPanchesk.
+- 👋 Olá, meu nome é **@GeanAntunesDaSilvaPanchesk**.
 -  Meu email de contato é jacksonrsp16@gmail.com.
 - 👀 Estou interessado em aprender novas linguagems.
 - 🌱 Eu estou aprendendo recentemente python, html, css, e javascript.
